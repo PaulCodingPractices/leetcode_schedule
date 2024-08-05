@@ -1,0 +1,32 @@
+{
+    "Arrays": [
+        {"name": "Two Sum", "difficulty": "easy"},
+        {"name": "Best Time to Buy and Sell Stock", "difficulty": "easy"},
+        {"name": "Product of Array Except Self", "difficulty": "medium"}
+    ],
+    "Linked Lists": [
+        {"name": "Reverse Linked List", "difficulty": "easy"},
+        {"name": "Merge Two Sorted Lists", "difficulty": "easy"},
+        {"name": "Linked List Cycle", "difficulty": "medium"}
+    ],
+    "Trees": [
+        {"name": "Maximum Depth of Binary Tree", "difficulty": "easy"},
+        {"name": "Same Tree", "difficulty": "easy"},
+        {"name": "Invert Binary Tree", "difficulty": "medium"}
+    ],
+    "Graphs": [
+        {"name": "Clone Graph", "difficulty": "medium"},
+        {"name": "Course Schedule", "difficulty": "medium"},
+        {"name": "Pacific Atlantic Water Flow", "difficulty": "medium"}
+    ],
+    "Dynamic Programming": [
+        {"name": "Climbing Stairs", "difficulty": "easy"},
+        {"name": "Longest Palindromic Substring", "difficulty": "medium"},
+        {"name": "Coin Change", "difficulty": "medium"}
+    ],
+    "Backtracking": [
+        {"name": "Subsets", "difficulty": "medium"},
+        {"name": "Permutations", "difficulty": "medium"},
+        {"name": "Combination Sum", "difficulty": "medium"}
+    ]
+}
